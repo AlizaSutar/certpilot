@@ -64,3 +64,15 @@ to live mode and falls back to simulation if a call fails.
   other PII.
 - Every Learning Path / Assessment item includes a citation back to its
   knowledge base source (`[Source: ...]`).
+
+  ## Architecture
+
+![CertPilot Architecture](assets/architecture.png)
+## Architecture
+
+<p align="center">
+  <img src="assets/architecture.png" width="900">
+</p>
+
+- 🌐 GitHub Repository: https://github.com/AlizaSutar/certpilot
+- 🎥 Demo Video:(https://youtu.be/IGMFtGCKkCs)
