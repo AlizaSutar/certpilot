@@ -1,0 +1,28 @@
+{
+  "work_signals": [
+    {
+      "employee_id": "EMP-001",
+      "meeting_hours_per_week": 20,
+      "focus_hours_per_week": 12,
+      "preferred_learning_slot": "Morning",
+      "busy_days": ["Monday", "Wednesday"],
+      "peak_focus_time": "7am-9am"
+    },
+    {
+      "employee_id": "EMP-002",
+      "meeting_hours_per_week": 15,
+      "focus_hours_per_week": 18,
+      "preferred_learning_slot": "Afternoon",
+      "busy_days": ["Tuesday"],
+      "peak_focus_time": "2pm-5pm"
+    },
+    {
+      "employee_id": "EMP-003",
+      "meeting_hours_per_week": 25,
+      "focus_hours_per_week": 8,
+      "preferred_learning_slot": "Evening",
+      "busy_days": ["Monday", "Tuesday", "Thursday"],
+      "peak_focus_time": "6pm-8pm"
+    }
+  ]
+}

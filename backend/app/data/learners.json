@@ -1,0 +1,37 @@
+{
+  "learners": [
+    {
+      "id": "EMP-001",
+      "name": "Rahul Sharma",
+      "role": "Cloud Engineer",
+      "current_skills": ["Python", "Azure Basics", "Networking"],
+      "target_certification": "AZ-204",
+      "completed_certifications": ["AZ-900"],
+      "practice_score_avg": 67,
+      "hours_studied": 18,
+      "exam_outcome": null
+    },
+    {
+      "id": "EMP-002",
+      "name": "Priya Patel",
+      "role": "DevOps Engineer",
+      "current_skills": ["Git", "Linux", "Docker", "CI/CD"],
+      "target_certification": "AZ-400",
+      "completed_certifications": ["AZ-204"],
+      "practice_score_avg": 82,
+      "hours_studied": 24,
+      "exam_outcome": null
+    },
+    {
+      "id": "EMP-003",
+      "name": "Amit Verma",
+      "role": "Developer",
+      "current_skills": ["Python", "REST APIs"],
+      "target_certification": "AZ-204",
+      "completed_certifications": [],
+      "practice_score_avg": 55,
+      "hours_studied": 10,
+      "exam_outcome": null
+    }
+  ]
+}

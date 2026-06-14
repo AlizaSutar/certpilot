@@ -1,0 +1,40 @@
+{
+  "certifications": [
+    {
+      "id": "AZ-900",
+      "name": "Azure Fundamentals",
+      "skills": ["Cloud Concepts", "Azure Services", "Security", "Pricing"],
+      "recommended_hours": 15,
+      "pass_threshold": 70,
+      "roles": ["Cloud Engineer", "IT Admin", "Developer"],
+      "prerequisites": []
+    },
+    {
+      "id": "AZ-204",
+      "name": "Azure Developer Associate",
+      "skills": ["API Development", "Azure Functions", "Storage", "Containers"],
+      "recommended_hours": 20,
+      "pass_threshold": 75,
+      "roles": ["Developer", "Cloud Engineer"],
+      "prerequisites": ["AZ-900"]
+    },
+    {
+      "id": "AZ-400",
+      "name": "DevOps Engineer Expert",
+      "skills": ["CI/CD", "Monitoring", "GitHub Actions", "Docker"],
+      "recommended_hours": 25,
+      "pass_threshold": 75,
+      "roles": ["DevOps Engineer"],
+      "prerequisites": ["AZ-204"]
+    },
+    {
+      "id": "AZ-305",
+      "name": "Azure Solutions Architect",
+      "skills": ["Architecture", "Networking", "Security", "Storage Design"],
+      "recommended_hours": 30,
+      "pass_threshold": 80,
+      "roles": ["Solutions Architect", "Cloud Engineer"],
+      "prerequisites": ["AZ-204"]
+    }
+  ]
+}
